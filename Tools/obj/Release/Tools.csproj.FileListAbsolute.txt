@@ -1,0 +1,7 @@
+K:\СПО\TestProject\SSProject\Tools\bin\Release\Tools.dll
+K:\СПО\TestProject\SSProject\Tools\bin\Release\Tools.pdb
+K:\СПО\TestProject\SSProject\Tools\bin\Release\Transport.dll
+K:\СПО\TestProject\SSProject\Tools\bin\Release\Transport.pdb
+K:\СПО\TestProject\SSProject\Tools\obj\Release\Tools.csprojResolveAssemblyReference.cache
+K:\СПО\TestProject\SSProject\Tools\obj\Release\Tools.dll
+K:\СПО\TestProject\SSProject\Tools\obj\Release\Tools.pdb

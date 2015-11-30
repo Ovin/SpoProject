@@ -1,0 +1,39 @@
+C:\Users\513_sna\Desktop\Новая папка\SSProject\Transport\bin\Debug\Transport.dll
+C:\Users\513_sna\Desktop\Новая папка\SSProject\Transport\bin\Debug\Transport.pdb
+C:\Users\513_sna\Desktop\Новая папка\SSProject\Transport\obj\Debug\Transport.dll
+C:\Users\513_sna\Desktop\Новая папка\SSProject\Transport\obj\Debug\Transport.pdb
+C:\Users\513_sna\Desktop\Новая папка\SSProject\Transport\obj\Debug\Transport.csprojResolveAssemblyReference.cache
+A:\СПО\Project\SSProject\Transport\bin\Debug\Transport.dll
+A:\СПО\Project\SSProject\Transport\bin\Debug\Transport.pdb
+A:\СПО\Project\SSProject\Transport\obj\Debug\Transport.csprojResolveAssemblyReference.cache
+A:\СПО\Project\SSProject\Transport\obj\Debug\Transport.dll
+A:\СПО\Project\SSProject\Transport\obj\Debug\Transport.pdb
+D:\СПО\Project\SSProject\Transport\bin\Debug\Transport.dll
+D:\СПО\Project\SSProject\Transport\bin\Debug\Transport.pdb
+D:\СПО\Project\SSProject\Transport\obj\Debug\Transport.csprojResolveAssemblyReference.cache
+D:\СПО\Project\SSProject\Transport\obj\Debug\Transport.dll
+D:\СПО\Project\SSProject\Transport\obj\Debug\Transport.pdb
+D:\СПО\TestProject\SSProject\Transport\bin\Debug\Transport.dll
+D:\СПО\TestProject\SSProject\Transport\bin\Debug\Transport.pdb
+D:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.csprojResolveAssemblyReference.cache
+D:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.dll
+D:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.pdb
+F:\СПО\TestProject\SSProject\Transport\bin\Debug\Transport.dll
+F:\СПО\TestProject\SSProject\Transport\bin\Debug\Transport.pdb
+F:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.csprojResolveAssemblyReference.cache
+F:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.dll
+F:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.pdb
+K:\СПО\TestProject\SSProject\Transport\bin\Debug\Transport.dll
+K:\СПО\TestProject\SSProject\Transport\bin\Debug\Transport.pdb
+K:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.csprojResolveAssemblyReference.cache
+K:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.dll
+K:\СПО\TestProject\SSProject\Transport\obj\Debug\Transport.pdb
+I:\TestProject\SSProject\Transport\bin\Debug\Transport.dll
+I:\TestProject\SSProject\Transport\bin\Debug\Transport.pdb
+I:\TestProject\SSProject\Transport\obj\Debug\Transport.csprojResolveAssemblyReference.cache
+I:\TestProject\SSProject\Transport\obj\Debug\Transport.dll
+I:\TestProject\SSProject\Transport\obj\Debug\Transport.pdb
+F:\СПО\TestProject\SSProject\Transport\bin\Debug\nunit.framework.dll
+F:\СПО\TestProject\SSProject\Transport\bin\Debug\nunit.framework.xml
+K:\СПО\TestProject\SSProject\Transport\bin\Debug\nunit.framework.dll
+K:\СПО\TestProject\SSProject\Transport\bin\Debug\nunit.framework.xml

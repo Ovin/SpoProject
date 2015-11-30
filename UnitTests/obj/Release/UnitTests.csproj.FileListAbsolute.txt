@@ -1,0 +1,8 @@
+K:\СПО\TestProject\SSProject\UnitTests\bin\Release\UnitTests.dll
+K:\СПО\TestProject\SSProject\UnitTests\bin\Release\UnitTests.pdb
+K:\СПО\TestProject\SSProject\UnitTests\bin\Release\nunit.framework.dll
+K:\СПО\TestProject\SSProject\UnitTests\bin\Release\Transport.dll
+K:\СПО\TestProject\SSProject\UnitTests\bin\Release\Transport.pdb
+K:\СПО\TestProject\SSProject\UnitTests\bin\Release\nunit.framework.xml
+K:\СПО\TestProject\SSProject\UnitTests\obj\Release\UnitTests.dll
+K:\СПО\TestProject\SSProject\UnitTests\obj\Release\UnitTests.pdb

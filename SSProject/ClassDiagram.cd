@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Transport.Car" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Transport.Helicopter" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Transport.Hybrid" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SSProject.AddTransportControl" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACQAgBAAAAjAEAICABBAAKAACAQAAQACAAA=</HashCode>
+      <FileName>AddTransportControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSProject.addTransportForm" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAACAAAACAAAAAAAAgQAwAQAAAAA=</HashCode>
+      <FileName>AddTransportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSProject.CarControl" Collapsed="true">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAEAACAAABIAAASAAEACAAAAAEAIAAAAAAASAAA=</HashCode>
+      <FileName>CarControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSProject.HelicopterControl" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAABAAQACAAAACAgAgAEAIAAAAAAASAAA=</HashCode>
+      <FileName>HelicopterControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSProject.HybridControl" Collapsed="true">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACAEIACAAABIAAACAAAACAAAAAEAJEAAAAAASAAA=</HashCode>
+      <FileName>HybridControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSProject.mainForm" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JACIAoACACCEBAAAIhCAQEBDBBkAAAAiACAIQEAQAQQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSProject.SearchForm" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAIAACAAABAAAACAAAACACgAggBAACAAAAAQAAA=</HashCode>
+      <FileName>SearchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSProject.Program" Collapsed="true">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Transport.ITransport">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
